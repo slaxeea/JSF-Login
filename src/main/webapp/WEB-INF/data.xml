@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <id>1</id>
+        <username>simon</username>
+        <password>123</password>
+    </user>    
+    <user>
+        <id>2</id>
+        <username>michele</username>
+        <password>123</password>
+    </user>
+    <user>
+        <id>3</id>
+        <username>robin</username>
+        <password>123</password>
+    </user>
+    <user>
+        <id>4</id>
+        <username>alessandro</username>
+        <password>123</password>
+    </user>
+    <user>
+        <id>5</id>
+        <username>gergö</username>
+        <password>123</password>
+    </user>
+    <user>
+        <id>6</id>
+        <username>florian</username>
+        <password>123</password>
+    </user>
+</users>
